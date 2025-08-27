@@ -41,7 +41,8 @@ I'm a passionate developer, open-source enthusiast, and lifelong learner. I love
 - 💡 Always curious, always learning.
 - 🌱 Currently exploring cloud, AI, and automation.
 - 🤝 Happy to collaborate on exciting projects.
-- 📬 Reach me: [jaff0916@gmail.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📬 Reach me: [jaff0916@gmail.com](mailto:your.email@example.com) | [LinkedIn](www.linkedin.com/in/muhammed-rishad-m-63a241263
+)
 
 ---
 
